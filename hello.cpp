@@ -8,3 +8,5 @@ int main()
     system("pause"); // Только для тех, у кого MS Visual Studio
     return 0; 
 }
+
+$ git config --global color.ui true
