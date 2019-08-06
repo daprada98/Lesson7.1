@@ -9,4 +9,4 @@ int main()
     return 0; 
 }
 
-$ git config --global color.ui true
+git config --global color.ui true
